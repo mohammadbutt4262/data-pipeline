@@ -1,0 +1,42 @@
+book_id,handle,title,author_id,author_key,vendor,price,first_publish_year,edition_count,url
+1,black-beauty,Black Beauty,1,OL25123A,Open Library,50.00,1877,25,https://openlibrary.org/works/OL45883W
+2,thoroughbred-ashleighs-dream,Thoroughbred: Ashleigh's Dream,2,OL556110A,Open Library,24.00,1994,8,https://openlibrary.org/works/OL367523W
+3,spellbound-ponies-rainbows-and-ribbons,Spellbound Ponies: Rainbows and Ribbons,3,OL3348124A,Open Library,22.00,2021,12,https://openlibrary.org/works/OL27514520W
+4,the-fit-racehorse-ii,The Fit Racehorse II,4,OL473292A,Open Library,21.00,1990,5,https://openlibrary.org/works/OL3495710W
+5,the-red-pony,The Red Pony,5,OL25788A,Open Library,50.00,1933,108,https://openlibrary.org/works/OL23197W
+6,the-horse-and-his-boy,The Horse and His Boy,6,OL31574A,Open Library,50.00,1954,169,https://openlibrary.org/works/OL71058W
+7,memoirs-of-sherlock-holmes-11-stories,Memoirs of Sherlock Holmes [11 stories],7,OL161167A,Open Library,50.00,1893,530,https://openlibrary.org/works/OL262463W
+8,pippi-l-ngstrump,Pippi Långstrump,8,OL24950A,Open Library,50.00,1945,116,https://openlibrary.org/works/OL14872925W
+9,daisy-miller,Daisy Miller,9,OL21001A,Open Library,50.00,1877,244,https://openlibrary.org/works/OL276328W
+10,the-return-of-sherlock-holmes,The Return of Sherlock Holmes,7,OL161167A,Open Library,50.00,1903,545,https://openlibrary.org/works/OL262477W
+11,the-complete-sherlock-holmes-4-novels-56-stories,"The Complete Sherlock Holmes [4 novels, 56 stories]",7,OL161167A,Open Library,50.00,1900,118,https://openlibrary.org/works/OL262554W
+12,william-wheeler-hubbell-authorized-to-apply-for-patents,"[William Wheeler Hubbell, authorized to apply for patents.]",10,OL2319898A,Open Library,50.00,1858,241,https://openlibrary.org/works/OL7574091W
+13,la-poetica,La Poetica,11,OL22105A,Open Library,50.00,1479,498,https://openlibrary.org/works/OL151515W
+14,untitled,Ὀδύσσεια,12,OL18404A,Open Library,50.00,1488,1061,https://openlibrary.org/works/OL61982W
+15,gullivers-travels,Gulliver's Travels,13,OL24522A,Open Library,50.00,1726,1809,https://openlibrary.org/works/OL20600W
+16,war-horse,War Horse,14,OL3477047A,Open Library,50.00,1982,54,https://openlibrary.org/works/OL42740W
+17,barbie-horse-trouble-barbie-look-look,Barbie Horse Trouble Barbie Look Look,15,OL2675811A,Open Library,50.00,1921,48,https://openlibrary.org/works/OL8043761W
+18,the-blue-sword,The Blue Sword,16,OL29622A,Open Library,48.00,1982,30,https://openlibrary.org/works/OL109416W
+19,eyewitness,Eyewitness,17,OL2655350A,Open Library,42.00,2000,28,https://openlibrary.org/works/OL7960560W
+20,true-betrayals,True Betrayals,18,OL18977A,Open Library,45.00,1995,29,https://openlibrary.org/works/OL111635W
+21,dark-witch,Dark Witch,18,OL18977A,Open Library,40.00,2013,28,https://openlibrary.org/works/OL17116778W
+22,mosbys-guide-to-nursing-diagnosis,Mosby's guide to nursing diagnosis,19,OL3244142A,Open Library,22.00,2005,8,https://openlibrary.org/works/OL9172331W
+23,physical-therapy-and-massage-for-the-horse,Physical therapy and massage for the horse,20,OL592126A,Open Library,24.00,1995,8,https://openlibrary.org/works/OL3532296W
+24,equine-ophthalmology,Equine ophthalmology,21,OL6928331A,Open Library,21.00,2011,9,https://openlibrary.org/works/OL15883487W
+25,equine-clinical-medicine-surgery-and-reproduction,Equine Clinical Medicine Surgery And Reproduction,22,OL7313292A,Open Library,21.00,2011,9,https://openlibrary.org/works/OL17435638W
+26,anatomy-of-the-horse,Anatomy of the horse,23,OL3158497A,Open Library,21.00,1994,5,https://openlibrary.org/works/OL9043194W
+27,animal-restraint-for-veterinary-professionals,Animal restraint for veterinary professionals,24,OL3236189A,Open Library,15.00,2006,3,https://openlibrary.org/works/OL18729553W
+28,large-animal-internal-medicine,Large Animal Internal Medicine,25,OL2848108A,Open Library,24.00,1990,8,https://openlibrary.org/works/OL8510811W
+29,equine-injury-and-therapy,Equine injury and therapy,26,OL584727A,Open Library,21.00,1987,5,https://openlibrary.org/works/OL3499977W
+30,equine-exercise-physiology,Equine Exercise Physiology,27,OL2735912A,Open Library,18.00,2002,4,https://openlibrary.org/works/OL20991834W
+31,getting-in-ttouch,Getting in ttouch,28,OL404657A,Open Library,20.00,1995,4,https://openlibrary.org/works/OL2756612W
+32,infectious-diseases-of-the-horse,Infectious diseases of the horse,29,OL7405371A,Open Library,20.00,2013,8,https://openlibrary.org/works/OL17820644W
+33,equine-sports-medicine-and-surgery,Equine sports medicine and surgery,30,OL5174519A,Open Library,18.00,2004,4,https://openlibrary.org/works/OL18843798W
+34,horseowners-guide-to-lameness,Horseowner's guide to lameness,31,OL585053A,Open Library,19.00,1995,3,https://openlibrary.org/works/OL3501476W
+35,equine-emergencies,Equine emergencies,32,OL397464A,Open Library,15.00,2007,3,https://openlibrary.org/works/OL2716087W
+36,manual-of-equine-emergencies,Manual of equine emergencies,32,OL397464A,Open Library,17.00,1998,3,https://openlibrary.org/works/OL2716089W
+37,understanding-equine-medications,Understanding equine medications,33,OL6723782A,Open Library,13.00,2007,1,https://openlibrary.org/works/OL13854134W
+38,farriery,Farriery,34,OL6744811A,Open Library,13.00,2007,1,https://openlibrary.org/works/OL27695541W
+39,the-equine-distal-limb,The Equine Distal Limb,20,OL592126A,Open Library,19.00,2000,5,https://openlibrary.org/works/OL3532295W
+40,the-new-equine-sports-therapy,The new equine sports therapy,35,OL1608605A,Open Library,16.00,1998,2,https://openlibrary.org/works/OL6225173W
+41,what-the-horses-have-told-me,What the Horses Have Told Me,36,OL3644414A,Open Library,15.00,1996,1,https://openlibrary.org/works/OL9648894W
